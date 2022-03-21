@@ -1,0 +1,11 @@
+asgiref==3.4.1
+Django==4.0.1
+django-bootstrap-form==3.4
+openpyxl==2.6.0
+random-string==1.0
+random-text-generator==1.1.0
+tzdata==2021.5
+urllib3==1.26.6
+url64==0.1.0
+django-import-export
+python-decouple
