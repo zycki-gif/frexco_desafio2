@@ -25,6 +25,7 @@ $ git clone https://github.com/zycki-gif/frexco_desafio2.git
 #Na pasta local abra o terminal e execute: 
 $ python -m venv venv
 $ source venv/Scripts/activate
+$ pip install -r requeriments.txt
 $ python manage.py makemigrations api
 $ python manage.py migrate api
 $ python manage.py runserver
